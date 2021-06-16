@@ -18,3 +18,7 @@ Creating this app was very much a challenge since this was my first Android app.
 The component that I am most excited about is the main inventory display screen. This tested my skills the most. While this may be simple to implement for a veteran programmer, I had a lot of difficulties in the beginning understanding the database that holds the user's data as well as being able to update that information. Once I finally implemented these two features, I was very excited!
 
 For those who try out my application, please enjoy! It's not perfect, but I am still proud!
+
+
+NOTE: A code review was created for this project during its enhancement phase. This code review can be found here: https://www.youtube.com/watch?v=dG797aGsOug
+
